@@ -1,2 +1,2 @@
-# Blackjack
-Algoritm de joc BlackJack pentru P.C.L.P.
+# Implementation_of_music
+Algoritm de implementare a muzicii in cod pentru P.C.L.P.
